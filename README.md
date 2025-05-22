@@ -22,9 +22,6 @@
   <img src="https://static-00.iconduck.com/assets.00/power-bi-icon-1536x2048-0xah5g2o.png" width="15">
   <span>PowerBI for simple, beautifull and interactive reports</span></div>
 - <div style="display: flex; align-items: center;">
-  <img src="https://cdn.icon-icons.com/icons2/1156/PNG/512/1486565573-microsoft-office_81557.png" width="20">
-  <span>Microsoft office.</span></div>
-- <div style="display: flex; align-items: center;">
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Sqlite-square-icon.svg/1200px-Sqlite-square-icon.svg.png" width="20">
   <span>SQL and SQLite for working with relational databases</span></div>
 - <div style="display: flex; align-items: center;">
