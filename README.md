@@ -2,7 +2,7 @@
 
 <h2> About me: </h2>
 
-- 📄 Physicist's student in University of Cantabria finishing his degree.
+- 📄 Data Science's student in UIMP. Physisist
 - 🌱 I'm currently learning Machine Learning with tensorflow and keras in python.
 
 <h2> Knowledge: </h2>
