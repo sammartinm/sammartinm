@@ -45,7 +45,6 @@ combining domain knowledge with data-driven methods.
 - SQL · SQLite
 - Web application development
 - APIs and data-driven applications
-- MATLAB
 - Power BI
 
 ## Interests
